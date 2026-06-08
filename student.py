@@ -1,0 +1,11 @@
+name=input("enter name:")
+age=int(input("enter age:"))
+roll=int(input("enter roll:"))
+perc=float(input("enter perc:"))
+dept=input("enter dept:")
+
+print(name)
+print(age)
+print(roll)
+print(perc)
+print(dept)
